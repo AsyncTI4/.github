@@ -6,10 +6,10 @@ PBD1 (play by Discord game 1) was born when a small group decided to try and pla
 
 **The Botfather** [@TerTerro](https://github.com/TerTerro) grew tired of waiting for TTS map screenshots to be updated and set off to develop a bot to handle various game mechanics. After a few weeks, the bot was up and running. With [@somno](https://github.com/CptSomno) handling all the graphics art, and [@HolyTispoon](https://github.com/HolyTispoon) ~~nagging~~ interfacing with the community and providing direction on what to work on, the bot reached 100% able to run and display a full game of TI4 in roughly 4 months.
 
+
 Check out these posts calling out other who helped build AsyncTI4 up to what it is today:
-- https://discord.com/channels/943410040369479690/1019459008622493716/1020779481817944216
-- https://discord.com/channels/943410040369479690/1019459008622493716/1029092279161466972
-- https://discord.com/channels/943410040369479690/1019459008622493716/1078802482156806215
-- https://discord.com/channels/943410040369479690/1019459008622493716/1115296732851486750
-- https://discord.com/channels/943410040369479690/1019459008622493716/1115298168020672703
-- https://discord.com/channels/943410040369479690/1019459008622493716/1166804539157000192
+- [2022-09-17](https://discord.com/channels/943410040369479690/1019459008622493716/1020779481817944216)
+- [2022-10-10](https://discord.com/channels/943410040369479690/1019459008622493716/1029092279161466972)
+- [2023-02-24](https://discord.com/channels/943410040369479690/1019459008622493716/1078802482156806215)
+- [2023-06-05](https://discord.com/channels/943410040369479690/1019459008622493716/1115296732851486750)
+- [2023-10-25](https://discord.com/channels/943410040369479690/1019459008622493716/1166804539157000192)
