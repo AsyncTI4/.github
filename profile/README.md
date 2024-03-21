@@ -1,5 +1,9 @@
 # AsyncTI4
 
+Play Twilight Imperium 4th Edition Asynchronously
+
+## History of AsyncTI4
+
 AsyncTI4 started out as a small group of people playing TI4 asynchronously on BoardGameGeek forums (PBF - play by forum), with map updates handled through GIMP images. This Discord server was originally just a method to ping players for their turns on BGG faster.
 
 PBD1 (play by Discord game 1) was born when a small group decided to try and play a game without needing a moderator to manage game state amd decks. It started out with using Dicecord to manage decks, TTS screenshots to manage map state, and a channel to keep public player area stuff updated as text blocks.
